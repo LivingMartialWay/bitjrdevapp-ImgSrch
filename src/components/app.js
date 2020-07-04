@@ -1,7 +1,6 @@
 import React from 'react';
 import unsplash from './api/unsplash';
 import SearchBar from '@bit/livingmartialway.bitjrdevapp.search-bar';
-import Logo from '@bit/livingmartialway.bitjrdevapp.logo';
 import ImageList from '@bit/livingmartialway.bitjrdevapp.image-list';
 import './app.css'
 
